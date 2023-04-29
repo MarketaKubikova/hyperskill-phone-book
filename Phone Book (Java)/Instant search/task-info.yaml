@@ -436,6 +436,12 @@ files:
     \ CheckResult.wrong(\"Your hashtable works slower, than quick sort + binary search.\"\
     );\n        }\n        return CheckResult.correct();\n    }\n}\n"
   learner_created: false
+- name: src/phonebook/find.txt
+  visible: true
+  learner_created: true
+- name: src/phonebook/directory.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/63/stages/475/implement#comment
 status: Solved
 feedback:
